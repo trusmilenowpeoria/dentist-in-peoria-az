@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://trusmilenow-peoria.s3.amazonaws.com/trusmile/sitemap.xml
